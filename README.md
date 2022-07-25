@@ -1,1 +1,1 @@
-Auto-photographer Web App
+<b>Auto-photographer Web App </b>
